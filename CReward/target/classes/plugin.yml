@@ -1,0 +1,12 @@
+name: CReward
+version: '1.0'
+main: sk.matiuss.creward.CReward.Main
+api-version: 1.8
+authors: [ Matiuss_ ]
+softdepend:
+  - PlaceholderAPI
+commands:
+  creward:
+    aliases:
+      - cr
+    description: Opens GUI menu
